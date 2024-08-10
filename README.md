@@ -1,6 +1,6 @@
 # Steven Cordero
 ### Web3 Developer 💻
-Web3 developer | zk  🚀
+Blockchain & ZK 🚀
 
 ϟ Actively contributing to open source projects in blockchain
 
